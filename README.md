@@ -1,1 +1,1 @@
-# whisper-transcriber-app-v2
+openai语音识别模型
